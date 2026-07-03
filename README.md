@@ -22,10 +22,7 @@ Complete electrical wiring design of a **10-storied (GF + 9 typical floors)** mu
 
 ```
 ├── README.md
-├── docs/
-│   ├── 01-introduction.md
-│   ├── 02-building-description.md
-│   └── 03-design-summary.md
+├── PDF
 ├── drawings/
 │   ├── civil-layouts/           # Ground & typical floor civil plans
 │   ├── fittings-fixtures/       # Fixture placement layouts
