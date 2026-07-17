@@ -18,22 +18,19 @@ Complete electrical wiring design of a **10-storied (GF + 9 typical floors)** mu
 | Supply | 11 kV / 0.415 kV, 3-phase |
 | Substation | 300 kVA transformer |
 
-## 📁 Repository Structure
 
-```
-├── README.md
-├── The complete design report is contained in a single PDF, which includes:
-- Civil-layouts          # Ground & typical floor civil plans
-- Fittings-fixtures      # Fixture placement layouts
-- Conduit-layouts        # Lighting & power conduit routing
-- Circuit-diagrams       # Switch connections, SDB, MDB
-- Substation             # SLD of 11/0.415 kV substation
-- Earthing               # System earthing detail
-- Lightning-protection   # LPS layout & sizing
-- Load-and-breaker-sizing
-- Substation-sizing
-- Lightning-risk-index
-```
+## 📑 Report Contents
+
+The complete design report is a single PDF: `Complete Electrical Wiring Design of a Multistoried Residential Building.pdf`. It includes:
+
+- **Civil layouts** — ground and typical floor civil plans
+- **Fittings and fixtures** — fixture placement layouts
+- **Conduit layouts** — lighting and power conduit routing
+- **Circuit diagrams** — switch connections, SDB, MDB
+- **Substation** — SLD of the 11/0.415 kV substation
+- **Earthing** — system earthing detail
+- **Lightning protection** — LPS layout and sizing
+- **Calculations** — load and breaker sizing, substation sizing, lightning risk index
 
 ## 📑 Design Contents
 
