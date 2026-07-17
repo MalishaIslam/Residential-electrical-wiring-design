@@ -26,13 +26,13 @@ Complete electrical wiring design of a **10-storied (GF + 9 typical floors)** mu
     - civil-layouts/           # Ground & typical floor civil plans
     - fittings-fixtures/       # Fixture placement layouts
     - conduit-layouts/         # Lighting & power conduit routing
-    ├── circuit-diagrams/        # Switch connections, SDB, MDB
-    ├── substation/              # SLD of 11/0.415 kV substation
-    ├── earthing/                # System earthing detail
-    └── lightning-protection/    # LPS layout & sizing
-    ├── load-and-breaker-sizing.md
-    ├── substation-sizing.md
-    └── lightning-risk-index.md
+    - circuit-diagrams/        # Switch connections, SDB, MDB
+    - substation/              # SLD of 11/0.415 kV substation
+    - earthing/                # System earthing detail
+    - lightning-protection/    # LPS layout & sizing
+    - load-and-breaker-sizing.md
+    - substation-sizing.md
+    - lightning-risk-index.md
 ```
 
 ## 📑 Design Contents
