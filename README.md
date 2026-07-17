@@ -30,9 +30,9 @@ Complete electrical wiring design of a **10-storied (GF + 9 typical floors)** mu
 - Substation/              # SLD of 11/0.415 kV substation
 - Earthing/                # System earthing detail
 - Lightning-protection/    # LPS layout & sizing
-- Load-and-breaker-sizing.md
-- Substation-sizing.md
-- Lightning-risk-index.md
+- Load-and-breaker-sizing/
+- Substation-sizing/
+- Lightning-risk-index
 ```
 
 ## 📑 Design Contents
